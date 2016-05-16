@@ -90,5 +90,3 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias wow="git status"
 alias hack="ssh"
-alias such="git"
-alias much="git"
